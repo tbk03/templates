@@ -1,0 +1,44 @@
+---
+title: "Template: portfolio"
+output: html_notebook
+---
+
+## Introduction
+
+### Objectives
+
+-   Address the following (research) questions:
+
+-   ...
+
+### The anticipated audience of the notebook
+
+-   ...
+
+-   ...
+
+### Structure of the notebook
+
+1.  ....
+
+2.  .....
+
+### The datasets used
+
+All data files are located at ...
+
+| File Name | Variable name in this notebook | Notes | More details |
+|-----------|--------------------------------|-------|--------------|
+|           |                                |       |              |
+|           |                                |       |              |
+|           |                                |       |              |
+
+### A summary of findings / conclusions
+
+### Other notes / reflections 
+
+# Code
+
+```{r, echo=FALSE}
+library(tidyverse)
+```
